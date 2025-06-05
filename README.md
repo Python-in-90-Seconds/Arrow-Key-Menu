@@ -15,6 +15,20 @@ It’s designed for Windows (CMD or PowerShell) and uses `msvcrt` to detect **ar
 
 ---
 
+### 🧠 Use Cases
+- Terminal-based games
+- Python CLI tools
+- Simulated OS or menus
+- Learning real-time input techniques
+
+---
+
+#### ⚠️ Requirements
+- Works on Windows only (due to msvcrt)
+- Python 3.6+
+
+---
+
 ## 💻 Code Example
 
 ```python
